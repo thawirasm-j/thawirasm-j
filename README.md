@@ -41,34 +41,16 @@ As a **Medical Doctor** and **Biomedical Engineer**, I don't just train models; 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thawirasm-j&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thawirasm-j)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thawirasm.j@psu.ac.th)
-
-</div>
-
----
-
-<div align="center">
 
 > **"I prefer the silence of the unknown to the noise of the untrue."**
 > 
 > *(Statistics is for seeking truth, not for comforting illusions.)*
 
-<br>
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thawirasm-j&color=brightgreen&style=flat-square)
 

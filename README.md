@@ -18,7 +18,7 @@ I bridge the gap between **Clinical Neuroscience** and **Artificial Intelligence
 
 As a **Medical Doctor** and **Biomedical Engineer**, I don't just train models; I ensure they make physiological sense. My mission is to transform "black-box" deep learning into transparent, clinical-grade tools for **Dementia diagnosis** and **Brain-Computer Interfaces (BCI)**.
 
-- 🔭 **Current Focus:** Generative AI (GANs/Diffusion) & LLMs for automated EEG analysis.
+- 🔭 **Current Focus:** Deep Learning and Foundation Models for automated EEG analysis.
 - 🧬 **Background:** Deep understanding of Neurophysiology combined with Advanced Signal Processing.
 - 🎯 **Goal:** Developing "Biologically Plausible" AI models that doctors can trust.
 - 💡 **Open for:** Research collaboration in Neuro-AI, Signal Processing, and Medical Device Innovation.
